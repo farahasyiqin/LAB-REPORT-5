@@ -25,6 +25,9 @@ st.set_page_config(
 
 st.title("CPU-Based Image Classification using ResNet18")
 st.write("This application classifies images using a pre-trained ResNet18 model.")
+st.write("NAME : NURFARAH ASYIQIN BINTI MD ADIM")
+st.write("MATRICS ID : SD23021")
+st.write("LAB REPORT 5 | BSD3513")
 
 # ---------------------------------------------------
 # Step 2 & 3: Import libraries and configure CPU only
